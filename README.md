@@ -10,3 +10,7 @@ In alexa folder you may find:
 
 In lego folder you will find:
   - python lego brick code
+
+A third folder contains two videos that demonstrate the functionality:
+  - movement video demonstrates that you can ask the robot to move forward, backwards, left and right, set different speed and detect and eliminate enemies. https://github.com/avperez80/LEGO-MINDSTORMS-Voice-Challenge/blob/master/videos/RobotHammer_movement.mov?raw=true
+  - patrol video demonstrates that the robot knows his position and do not move out of the orange 6 steps square, detecting threads and eliminating them. https://github.com/avperez80/LEGO-MINDSTORMS-Voice-Challenge/blob/master/videos/RobotHammer_patrol.mov
